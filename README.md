@@ -3,7 +3,7 @@ Lenguaje de programación hecho en Pascal
 
 # Estructura general
 Un programa consiste de una secuencia de sentencias, comenzando por la declaración de las variables que se utilizarán en este programa, en donde se establecen los tipos de las mismas *(x := real)*. Estos tipos pueden ser números reales o arrays de números reales.
-Luego se pasa al cuerpo del programa, el cual se ve limitado por las palabras reservadas **begin** y **end.**.
+Luego se pasa al cuerpo del programa, el cual se ve limitado por las palabras reservadas **begin** y **end.**
 
 # Sentencias
 Asignación: Para asignar un valor a una variable declarada se utiliza el operador **:=**, de manera tal que a la derecha del mismo esté el valor a guardar, y a la izquierda la variable en cuestión. Este valor puede ser una operación, como suma, resta, producto, división, potencia y raíz.
